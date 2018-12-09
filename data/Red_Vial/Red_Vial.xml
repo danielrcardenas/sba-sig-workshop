@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?><MD_Metadata xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:xalan="http://xml.apache.org/xalan" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isotc211.org/2005/gmd">
+<fileIdentifier>
+<gco:CharacterString>1481143510345r20285975941038026</gco:CharacterString>
+</fileIdentifier>
+<language>
+<LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="spa" codeSpace="ISO639-2">spa</LanguageCode>
+</language>
+<characterSet>
+<MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+</characterSet>
+<hierarchyLevel>
+<MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+</hierarchyLevel>
+<hierarchyLevelName>
+<gco:CharacterString>dataset</gco:CharacterString>
+</hierarchyLevelName>
+<contact>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>Instituto Nacional de Vias - INVIAS</gco:CharacterString>
+</organisationName>
+<positionName>
+<gco:CharacterString>Grupo de Estadística e Información Vial</gco:CharacterString>
+</positionName>
+<contactInfo>
+<CI_Contact>
+<phone>
+<CI_Telephone>
+<voice>
+<gco:CharacterString>+57 (1) 7056000</gco:CharacterString>
+</voice>
+</CI_Telephone>
+</phone>
+<address>
+<CI_Address>
+<city>
+<gco:CharacterString>Bogotá D.C.</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>Instituto Nacional de Vias - INVIAS</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>110010</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="CO" codeSpace="ISO3166-1">CO</Country>
+</country>
+</CI_Address>
+</address>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</contact>
+<dateStamp>
+<gco:Date>2016-12-01</gco:Date>
+</dateStamp>
+<metadataStandardName>
+<gco:CharacterString>ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
+</metadataStandardName>
+<metadataStandardVersion>
+<gco:CharacterString>2007</gco:CharacterString>
+</metadataStandardVersion>
+<identificationInfo>
+<MD_DataIdentification>
+<citation>
+<CI_Citation>
+<title>
+<gco:CharacterString>Red Vial</gco:CharacterString>
+</title>
+<alternateTitle>
+<gco:CharacterString>Red Vial Nacional de Carreteras</gco:CharacterString>
+</alternateTitle>
+<date>
+<CI_Date>
+<date>
+<gco:Date>2016-08-01</gco:Date>
+</date>
+<dateType>
+<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation" codeSpace="ISOTC211/19115">creation</CI_DateTypeCode>
+</dateType>
+</CI_Date>
+</date>
+<date>
+<CI_Date>
+<date>
+<gco:Date>2016-12-07</gco:Date>
+</date>
+<dateType>
+<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+</dateType>
+</CI_Date>
+</date>
+<date>
+<CI_Date>
+<date>
+<gco:Date>2016-12-07</gco:Date>
+</date>
+<dateType>
+<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision" codeSpace="ISOTC211/19115">revision</CI_DateTypeCode>
+</dateType>
+</CI_Date>
+</date>
+<citedResponsibleParty>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>Instituto Nacional de Vias - INVIAS</gco:CharacterString>
+</organisationName>
+<positionName>
+<gco:CharacterString>Grupo de Estadística e Información Vial - GEIV</gco:CharacterString>
+</positionName>
+<contactInfo>
+<CI_Contact>
+<phone>
+<CI_Telephone>
+<voice>
+<gco:CharacterString>+57 (1) 7056000</gco:CharacterString>
+</voice>
+</CI_Telephone>
+</phone>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>Carrera 59 # 26-60</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Bogotá D.C.</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>Ministerio de Transporte</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>110010</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="CO" codeSpace="ISO3166-1">CO</Country>
+</country>
+</CI_Address>
+</address>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</citedResponsibleParty>
+<collectiveTitle>
+<gco:CharacterString>Red Vial Nacional de Carreteras</gco:CharacterString>
+</collectiveTitle>
+</CI_Citation>
+</citation>
+<abstract>
+<gco:CharacterString>La Red Vial Nacional de Carreteras esta conformada por las troncales, transversales y accesos a capitales de Departamento que cumplen la función básica de integración de las principales zonas de producción y consumo del país y de éste con los demás países.Ver Metadatos</gco:CharacterString>
+</abstract>
+<purpose>
+<gco:CharacterString>Información cartográfica de la Red Nacional de Carreteras No Concesionada a cargo del INVIAS, carreteras  concesionadas bajo administración ANI, carreteras secundarias (Programa Plan Vial Regional - PVR) y carreteras complementarias.</gco:CharacterString>
+</purpose>
+<credit>
+<gco:CharacterString>INVIAS</gco:CharacterString>
+</credit>
+<status>
+<MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeListValue="underDevelopment" codeSpace="ISOTC211/19115">underDevelopment</MD_ProgressCode>
+</status>
+<pointOfContact>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>Instituto Nacional de Vias - INVIAS</gco:CharacterString>
+</organisationName>
+<positionName>
+<gco:CharacterString>Grupo de Estadistica e Información Vial - GEIV</gco:CharacterString>
+</positionName>
+<contactInfo>
+<CI_Contact>
+<phone>
+<CI_Telephone>
+<voice>
+<gco:CharacterString>+57 (1) 7056000</gco:CharacterString>
+</voice>
+</CI_Telephone>
+</phone>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>Carrera 59 No. 26-60</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Bogotá D.C.</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>Instituto Nacional de Vias - INVIAS</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>110010</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="CO" codeSpace="ISO3166-1">CO</Country>
+</country>
+</CI_Address>
+</address>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</pointOfContact>
+<resourceMaintenance>
+<MD_MaintenanceInformation>
+<maintenanceAndUpdateFrequency>
+<MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="weekly" codeSpace="ISOTC211/19115">weekly</MD_MaintenanceFrequencyCode>
+</maintenanceAndUpdateFrequency>
+<updateScope>
+<MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="attributeType" codeSpace="ISOTC211/19115">attributeType</MD_ScopeCode>
+</updateScope>
+</MD_MaintenanceInformation>
+</resourceMaintenance>
+<descriptiveKeywords>
+<MD_Keywords>
+<keyword>
+<gco:CharacterString>INVIAS</gco:CharacterString>
+</keyword>
+<keyword>
+<gco:CharacterString>ANI</gco:CharacterString>
+</keyword>
+<keyword>
+<gco:CharacterString>Ministerio de Transporte</gco:CharacterString>
+</keyword>
+<keyword>
+<gco:CharacterString>Red Nacional de Carreteras</gco:CharacterString>
+</keyword>
+</MD_Keywords>
+</descriptiveKeywords>
+<descriptiveKeywords>
+<MD_Keywords>
+<keyword>
+<gco:CharacterString>INVIAS</gco:CharacterString>
+</keyword>
+<keyword>
+<gco:CharacterString>ANI</gco:CharacterString>
+</keyword>
+<keyword>
+<gco:CharacterString>Ministerio de Transporte</gco:CharacterString>
+</keyword>
+<keyword>
+<gco:CharacterString>Red Nacional de Carreteras</gco:CharacterString>
+</keyword>
+</MD_Keywords>
+</descriptiveKeywords>
+<descriptiveKeywords>
+<MD_Keywords>
+<keyword>
+<gco:CharacterString>INVIAS</gco:CharacterString>
+</keyword>
+<keyword>
+<gco:CharacterString>ANI</gco:CharacterString>
+</keyword>
+<keyword>
+<gco:CharacterString>Ministerio de Transporte</gco:CharacterString>
+</keyword>
+<keyword>
+<gco:CharacterString>Red Nacional de Carreteras</gco:CharacterString>
+</keyword>
+</MD_Keywords>
+</descriptiveKeywords>
+<descriptiveKeywords>
+<MD_Keywords>
+<keyword>
+<gco:CharacterString>INVIAS</gco:CharacterString>
+</keyword>
+<keyword>
+<gco:CharacterString>ANI</gco:CharacterString>
+</keyword>
+<keyword>
+<gco:CharacterString>Ministerio de Transporte</gco:CharacterString>
+</keyword>
+<keyword>
+<gco:CharacterString>Red Nacional de Carreteras</gco:CharacterString>
+</keyword>
+</MD_Keywords>
+</descriptiveKeywords>
+<resourceConstraints>
+<MD_LegalConstraints>
+<useLimitation>
+<gco:CharacterString>Esri Colombia</gco:CharacterString>
+</useLimitation>
+<accessConstraints>
+<MD_RestrictionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_RestrictionCode" codeListValue="license" codeSpace="ISOTC211/19115">license</MD_RestrictionCode>
+</accessConstraints>
+</MD_LegalConstraints>
+</resourceConstraints>
+<spatialRepresentationType>
+<MD_SpatialRepresentationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector" codeSpace="ISOTC211/19115">vector</MD_SpatialRepresentationTypeCode>
+</spatialRepresentationType>
+<language>
+<LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="spa" codeSpace="ISO639-2">spa</LanguageCode>
+</language>
+<characterSet>
+<MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+</characterSet>
+<topicCategory>
+<MD_TopicCategoryCode>transportation</MD_TopicCategoryCode>
+</topicCategory>
+<supplementalInformation>
+<gco:CharacterString>El INVIAS tiene a su cargo la Red Vial de Carreteras No Concesionada, y no tiene la competencia sobre la Red Vial Concesionada, Red Vial Secundaria y Red Municipal.</gco:CharacterString>
+</supplementalInformation>
+</MD_DataIdentification>
+</identificationInfo>
+</MD_Metadata>

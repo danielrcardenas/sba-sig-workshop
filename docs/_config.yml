@@ -1,0 +1,45 @@
+# Site
+
+title: "Introduction to GIS and ABM"
+handouts:
+  - ebola_model.nlogo
+  - expanded_ebola_model.nlogo
+  - data/gis-abm-lesson.prj
+  - data/Cases_at_Admin2_Level
+  - data/Ebola_Treatment_Centers
+  - data/Sierra_Leone_Roads
+  - data/SL_Admin01
+  - data/SL_pop.csv
+  - data/SL_pop.ods
+  - data/README.md
+tags: v0.1
+instructor: Nick Magliocca
+lesson: 4
+authors:
+  - Nick Magliocca
+
+# Slides
+
+slide_sorter:
+  - intro
+  - gis
+  - organize
+  - ebola
+  - ebola-ext
+  - conclude  
+
+#####################################
+# Only modify content above or risk #
+# merge conflicts with upstream.    #
+#####################################
+
+# Style
+
+styleurl: https://cdn.rawgit.com/sesync-ci/lesson-style/v2.0/docs
+reveal: https://cdn.rawgit.com/hakimel/reveal.js/3.5.0
+
+# Jekyll
+
+markdown: kramdown
+collections:
+  - slides
